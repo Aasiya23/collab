@@ -1,1 +1,12 @@
-
+\\this is keerthi file
+#include<stdio.h>
+int main()
+{
+a=3;
+b=2;
+printf("Before swapping %d %d",a,b);
+temp=a;
+a=b;
+b=temp;
+printf("after swapping %d %d",a,b);
+}
