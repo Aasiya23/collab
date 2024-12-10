@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //This is dashami's file
 #include<stdio.h>
 int main()
@@ -11,4 +12,29 @@ largest=b;
 else
 largest=c;
 printf("Largest=%d",largest);
+=======
+<<<<<<< HEAD
+\\this is bindiya file
+#include<stdio.h>
+int main()
+{
+int a,b;
+printf("Enter two numbers:");
+scanf("%d %d",&a,&b);
+printf("Sum: %d\n",a+b);
+return 0;
+=======
+\\this is keerthi file
+#include<stdio.h>
+int main()
+{
+a=3;
+b=2;
+printf("Before swapping %d %d",a,b);
+temp=a;
+a=b;
+b=temp;
+printf("after swapping %d %d",a,b);
+>>>>>>> 405af26622b6acf473bef7b8a59af83bd3e3cf08
+>>>>>>> 61eef06795844deb8d5d4c48596c21c39a0730f8
 }
