@@ -1,1 +1,14 @@
-
+//This is dashami's file
+#include<stdio.h>
+int main()
+{
+int a=10,b=20,c=30;
+int largest;
+if(a>b&&a>c)
+largest=a;
+elseif(b>c)
+largest=b;
+else
+largest=c;
+printf("Largest=%d",largest);
+}
