@@ -1,8 +1,17 @@
 #include<stdio.h>
+<<<<<<< HEAD
+int main()
+{
+a=10,b=20,c;
+c=a+b;
+printf("result=%d");
+}
+=======
 int main
 {
 printf("hello world");
 }
+<<<<<<< HEAD
 .....
 #include<stdio.h>
 int main()
@@ -14,3 +23,7 @@ a=b;
 b=c;
 printf("after swapping");
 }
+=======
+
+>>>>>>> 21e4dc8723e7bd160302ef6ba864e9916a8940fd
+>>>>>>> d360634eafdd8f7c7ee70e0db2dc924c177030e7
