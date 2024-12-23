@@ -1,7 +1,15 @@
 #include<stdio.h>
+<<<<<<< HEAD
 int main()
 {
 a=10,b=20,c;
 c=a+b;
 printf("result=%d");
 }
+=======
+int main
+{
+printf("hello world");
+}
+
+>>>>>>> 21e4dc8723e7bd160302ef6ba864e9916a8940fd
